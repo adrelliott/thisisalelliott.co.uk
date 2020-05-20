@@ -15,11 +15,11 @@
           Want some help with a project? Got a problem with your Email Marketing? Just lonely?
         </p>
         <div class="row">
-          <div class="col-lg-4 col-md-4 mb-3">
-              <img src="assets/img/al-hello-3_tiny.gif">
+          <div class="col-lg-4 col-md-4 mb-3 text-center">
+              <img src="assets/img/al-hello-3_tiny.gif" alt="Image loading...">
           </div>
           <div class="col-lg-8 col-md-8">
-            <p class="lead">Just follow the instructions below to find a date/time that works for both of us.</p>
+            <p class="lead">Choose your favourite way to talk below, and we'll find a date/time that works for both of us.</p>
             <ul class="list-unstyled">
                   <li class=" mb-3">
                       <div class="subheading mb-3">
@@ -55,12 +55,11 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="zoom">
       <div class="w-100">
-        <h2 class="mb-5">Book with Zoom</h2>
+        <h2 class="mb-2">Book with Zoom</h2>
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-0">
           <div class="resume-content">
-            <h3 class="mb-0">You're so effortlessly cool – I love it.</h3>
             <p class="lead ">
-              My schedule should have appeared in a fancy little box below. Just pick a time that works and BOOM you're in my diary.
+              <strong>You're so effortlessly cool – I love it.</strong> My schedule should have appeared in a fancy little box below. Just pick a time that works and BOOM you're in my diary.
             </p>
             <p class="lead">
               Changed your mind about Zoom? <a href="#home">Start again</a>. Having issues? <a href="mailto:adrelliott@gmail.com">Email me</a>.
@@ -78,14 +77,13 @@
 
         <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="zoom">
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="skype">
       <div class="w-100">
-        <h2 class="mb-5">Book with Skype</h2>
+        <h2 class="mb-2">Book with Skype</h2>
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-0">
           <div class="resume-content">
-            <h3 class="mb-0">So you're old school, eh? I like it.</h3>
             <p class="lead ">
-              My schedule should have appeared in a fancy little box below. Just pick a time that works and BOOM you're in my diary.
+              <strong>So you're old school, eh? I like it.</strong> My schedule should have appeared in a fancy little box below. Just pick a time that works and BOOM you're in my diary.
             </p>
             <p class="lead">
               Changed your mind about using Skype? <a href="#home">Start again</a>. Having issues? <a href="mailto:adrelliott@gmail.com">Email me</a>.
@@ -103,14 +101,13 @@
 
         <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="zoom">
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="phone">
       <div class="w-100">
-        <h2 class="mb-5">Book with a 'phone call</h2>
+        <h2 class="mb-2">Book with a 'phone call</h2>
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-0">
           <div class="resume-content">
-            <h3 class="mb-0">You like the old dog-and-bone – that's fine by me. I'm pretty sure my smartphone accepts calls too… </h3>
             <p class="lead ">
-              My schedule should have appeared in a fancy little box below. Just pick a time that works and BOOM you're in my diary.
+              <strong>You like the old dog-and-bone – that's fine by me!</strong> My schedule should have appeared in a fancy little box below. Just pick a time that works and BOOM you're in my diary.
             </p>
             <p class="lead">
               Changed your mind about using the phone? <a href="#home">Start again</a>. Having issues? <a href="mailto:adrelliott@gmail.com">Email me</a>.
@@ -125,6 +122,8 @@
         </div>
       </div>
     </section>
+    
+    <hr class="m-0 mb-3">
 
     <?php include('partials/copyright-and-links.php'); ?>
 
