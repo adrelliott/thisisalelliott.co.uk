@@ -2,7 +2,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Al Elliott</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/alprofile.jpg" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/assets/img/alprofile.jpg" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,16 +11,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#home">Start Here</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#zoom">Zoom</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#skype">Skype</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#phone">Phone</a>
+          <a class="nav-link js-scroll-trigger" href="/book/start">Start Again</a>
         </li>
       </ul>
     </div>

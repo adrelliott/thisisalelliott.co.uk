@@ -16,7 +16,7 @@
         </p>
         <div class="row">
           <div class="col-lg-4 col-md-4 mb-3 text-center">
-              <img src="assets/img/al-hello-3_tiny.gif" alt="Image loading...">
+              <img src="/assets/img/al-hello-3_tiny.gif" alt="Image loading...">
           </div>
           <div class="col-lg-8 col-md-8">
             <p class="lead">Choose your favourite way to talk below, and we'll find a date/time that works for both of us.</p>
@@ -122,7 +122,7 @@
         </div>
       </div>
     </section>
-    
+
     <hr class="m-0 mb-3">
 
     <?php include('partials/copyright-and-links.php'); ?>

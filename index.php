@@ -161,12 +161,12 @@
 
     <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="travel">
       <div class="w-100">
-        <h2 class="mb-5">Interests</h2>
-        <p class="lead">When I'm not crafting campaigns or building websites, I like to relax with long walks with our little ginger Podenco dog, Peanut.</p>
-        <p class="lead"><strong>It's a proper 'rags-to-riches' story for our Peanut.</strong> We rescued him when we lived in Malaga, Spain, after he was found in a bin at 2 weeks old. However, since he's joined our little family, he might be one of the most well-travelled dogs in Europe, racking up over 40 border crossings so far...</p>
-        <p class="lead">After my wife and I spent 5 years living in rural Andalucia, we made the decision to see more of this amazing world, and have been travelling full-time since 2017. Our aim is to visit every country in Europe (just 6 to go!), but our hearts belong to the Balkans, and especially Mostar in the heart of Herzegovina.</p>
+        <h2 class="mb-5">Travel & Homelife</h2>
+        <p class="lead">When I'm not crafting campaigns or building websites, my wife and I will travel with our little Podenco dog, Peanut.</p>
+        <p class="lead"><strong>It's a proper 'rags-to-riches' story for our Peanut.</strong> We rescued him when we lived in Malaga, Spain, after he was found in a bin at 2 weeks old. However, since he's joined our little family, he might be one of the most well-travelled dogs in Europe, racking up over 32 border crossings so far...</p>
+        <p class="lead">After 5 amazing years living in rural Andalucia, we made the decision to see more of the world, and have been travelling full-time since 2017. Our aim is to visit every country in Europe (just 6 to go!), but our hearts belong to the Balkans, and especially Mostar in the heart of Herzegovina.</p>
         <p class="lead">If we do settle down, we think it'll be rural Mostar, with regular trips to our favourite Indonesian island of Lombok.</p>
       </div>
     </section>
@@ -178,7 +178,7 @@
         <h2 class="mb-5">Get In Touch</h2>
         <div class="subheading mb-2">Fancy a chat?</div>
         <p class="lead">Why not schedule a call, so we can talk about your latest project or solve a problem together.</p>
-        <a href="/book" class="">
+        <a href="/book/start" class="">
           <button class="btn btn-outline-dark">Choose a Date/Time</button>
         </a>
         <br>

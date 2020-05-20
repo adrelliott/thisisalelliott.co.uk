@@ -1,8 +1,8 @@
-<?php include('partials/header.php'); ?>
+<?php include('../partials/header.php'); ?>
 
 <body id="page-top">
 
-  <?php include('partials/nav-empty.php'); ?>
+  <?php include('../partials/nav-empty.php'); ?>
 
   <div class="container-fluid p-0">
 
@@ -32,7 +32,7 @@
 
     <hr class="m-0 mb-3">
 
-    <?php include('partials/copyright-and-links.php'); ?>
+    <?php include('../partials/copyright-and-links.php'); ?>
 
   </div>
-<?php include('partials/footer.php');
+<?php include('../partials/footer.php');
