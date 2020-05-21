@@ -8,9 +8,6 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="home">
       <div class="w-100">
-        <h1 class="mb-0"> 
-          <span class="text-primary">Disclaimer</span>
-        </h1>
         <?php
           $output = file_get_contents('../../policies/disclaimer' . '.php');
 
